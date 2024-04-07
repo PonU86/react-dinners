@@ -1,0 +1,42 @@
+.dinners {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: auto;
+  justify-content: center;
+  align-items: center;
+}
+
+.dinnerItem {
+  width: 100%;
+  padding: 40px 60px;
+}
+
+.dinnerItem div {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  width: 100%;
+  height: 200px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+ul,
+ol {
+  text-align: left;
+}
+
+.who {
+  text-align: left;
+  font-size: small;
+}
+
+
+@media  (min-width: 768px) {
+  .dinnerlists {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
