@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.7dd0a199.css",
-    "main.js": "/static/js/main.eee8bc74.js",
-    "static/js/787.b3c6f53e.chunk.js": "/static/js/787.b3c6f53e.chunk.js",
-    "static/media/banana-bread.jpeg": "/static/media/banana-bread.c34d7a52ea59686af031.jpeg",
-    "static/media/french-onion.jpeg": "/static/media/french-onion.3d8a3a5ffc1938950162.jpeg",
-    "static/media/fried-chicken.jpeg": "/static/media/fried-chicken.81ddcee05db656d4724a.jpeg",
-    "static/media/chicken-pasta-bowl.jpeg": "/static/media/chicken-pasta-bowl.927ec390aae2cec06b2c.jpeg",
-    "static/media/biscuits.jpeg": "/static/media/biscuits.0d48a0570b5c4580f8ef.jpeg",
-    "static/media/hoogie-steak-and-cheese.jpeg": "/static/media/hoogie-steak-and-cheese.2b83447ea1d19d4df0ca.jpeg",
-    "static/media/chicken-leg.jpeg": "/static/media/chicken-leg.eee7d0f2c57fdd52fe4d.jpeg",
-    "static/media/snikerdoodles.jpeg": "/static/media/snikerdoodles.38c356971574120d10fd.jpeg",
-    "static/media/fish.jpeg": "/static/media/fish.0b6960ff7dc8226ca0f5.jpeg",
-    "static/media/stuffed-peppers.jpeg": "/static/media/stuffed-peppers.e7f537971316070bfa57.jpeg",
-    "static/media/pumpkin-chocolate.jpeg": "/static/media/pumpkin-chocolate.75b1fb32ddc26655e8fc.jpeg",
-    "static/media/potato-soup.jpeg": "/static/media/potato-soup.9b2a88fe299f6104fe56.jpeg",
-    "static/media/chicken-pasta.jpeg": "/static/media/chicken-pasta.b9a0c3175382ba6b5053.jpeg",
-    "static/media/broccoli-soup.jpeg": "/static/media/broccoli-soup.d0ce2ca7722f7b6ee486.jpeg",
-    "index.html": "/index.html",
-    "main.7dd0a199.css.map": "/static/css/main.7dd0a199.css.map",
-    "main.eee8bc74.js.map": "/static/js/main.eee8bc74.js.map",
-    "787.b3c6f53e.chunk.js.map": "/static/js/787.b3c6f53e.chunk.js.map"
+    "main.css": "/react-dinners/static/css/main.7dd0a199.css",
+    "main.js": "/react-dinners/static/js/main.9e2f32ed.js",
+    "static/js/787.b3c6f53e.chunk.js": "/react-dinners/static/js/787.b3c6f53e.chunk.js",
+    "static/media/banana-bread.jpeg": "/react-dinners/static/media/banana-bread.c34d7a52ea59686af031.jpeg",
+    "static/media/french-onion.jpeg": "/react-dinners/static/media/french-onion.3d8a3a5ffc1938950162.jpeg",
+    "static/media/fried-chicken.jpeg": "/react-dinners/static/media/fried-chicken.81ddcee05db656d4724a.jpeg",
+    "static/media/chicken-pasta-bowl.jpeg": "/react-dinners/static/media/chicken-pasta-bowl.927ec390aae2cec06b2c.jpeg",
+    "static/media/biscuits.jpeg": "/react-dinners/static/media/biscuits.0d48a0570b5c4580f8ef.jpeg",
+    "static/media/hoogie-steak-and-cheese.jpeg": "/react-dinners/static/media/hoogie-steak-and-cheese.2b83447ea1d19d4df0ca.jpeg",
+    "static/media/chicken-leg.jpeg": "/react-dinners/static/media/chicken-leg.eee7d0f2c57fdd52fe4d.jpeg",
+    "static/media/snikerdoodles.jpeg": "/react-dinners/static/media/snikerdoodles.38c356971574120d10fd.jpeg",
+    "static/media/fish.jpeg": "/react-dinners/static/media/fish.0b6960ff7dc8226ca0f5.jpeg",
+    "static/media/stuffed-peppers.jpeg": "/react-dinners/static/media/stuffed-peppers.e7f537971316070bfa57.jpeg",
+    "static/media/pumpkin-chocolate.jpeg": "/react-dinners/static/media/pumpkin-chocolate.75b1fb32ddc26655e8fc.jpeg",
+    "static/media/potato-soup.jpeg": "/react-dinners/static/media/potato-soup.9b2a88fe299f6104fe56.jpeg",
+    "static/media/chicken-pasta.jpeg": "/react-dinners/static/media/chicken-pasta.b9a0c3175382ba6b5053.jpeg",
+    "static/media/broccoli-soup.jpeg": "/react-dinners/static/media/broccoli-soup.d0ce2ca7722f7b6ee486.jpeg",
+    "index.html": "/react-dinners/index.html",
+    "main.7dd0a199.css.map": "/react-dinners/static/css/main.7dd0a199.css.map",
+    "main.9e2f32ed.js.map": "/react-dinners/static/js/main.9e2f32ed.js.map",
+    "787.b3c6f53e.chunk.js.map": "/react-dinners/static/js/787.b3c6f53e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7dd0a199.css",
-    "static/js/main.eee8bc74.js"
+    "static/js/main.9e2f32ed.js"
   ]
 }
